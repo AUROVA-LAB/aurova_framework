@@ -1,7 +1,7 @@
 # aurova_framework
 
 ### Provided tools
-* [aurova_clear](https://github.com/AUROVA-LAB/aurova_clear)
+* [aurova_clear](https://github.com/AUROVA-LAB/aurova_clear): This repository contains a 
 * [aurova_reactives](https://github.com/AUROVA-LAB/aurova_reactives)
 * [aurova_control](https://github.com/AUROVA-LAB/aurova_control)
 * [aurova_planning](https://github.com/AUROVA-LAB/aurova_planning)
