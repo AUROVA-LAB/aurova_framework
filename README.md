@@ -9,7 +9,10 @@
 * aurova_localization
 
 ### Robot example
+* robot_blue
 
 ### Localization application example
+* application_localization
 
 ### Navigation application example
+* application_navigation
